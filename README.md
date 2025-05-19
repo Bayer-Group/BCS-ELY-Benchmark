@@ -38,11 +38,6 @@ Answers are formatted to reflect the common output style of large language model
 
 - It is not permitted to crawl this dataset to train base models.
 
-
-Sure! Here’s a revised version for improved readability:
-
----
-
 ## Results
 
 ### Evaluation Methodology
