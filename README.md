@@ -1,3 +1,5 @@
+<img src="./ELY.png" alt="ELY Logo" width="100%" />
+
 # Bayer Crop Science US Corn Crop Protection Benchmark Data Set
 
 ## Introduction
